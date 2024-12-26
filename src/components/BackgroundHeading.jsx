@@ -1,3 +1,3 @@
 export default function BackgroundHeading() {
-  return <h1>Ready Pack</h1>;
+  return <h1>ReadyPack</h1>;
 }
